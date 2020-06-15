@@ -5,3 +5,7 @@
 и RusVectores модели русскоязычные 181 и 187
 
 ссылка на разделенные документы https://nnazr-my.sharepoint.com/:f:/g/personal/m20632_365pronow_com/Ep3it--tyDJAnURmxt4_TKIBIuyVbFtBt283B-ojfCUbxw?e=eVjhhf
+
+Ссылка на готовые фичи https://nnazr-my.sharepoint.com/:u:/g/personal/m20632_365pronow_com/EXiOXW2iLyhHm1ZIHQNe5RcBOLYuc9BcshUd-2xoxrqf2g?e=hUNT8E
+
+ссылка на поведенческие фичи https://nnazr-my.sharepoint.com/:f:/g/personal/m20632_365pronow_com/EtGz-GQmvn1FouGWLZnmRVkBjeCLWT6tBt_6bIlnX1nqqA?e=sr9D3O
