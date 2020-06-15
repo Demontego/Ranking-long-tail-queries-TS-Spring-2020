@@ -1,0 +1,286 @@
+3.74286	Похожесть по universal-sentence-encoder-multilingual-qa/3
+2.9869	косинус TFIDF по текстам нграммы 1-5
+2.22262	Хост AVGtime
+2.07381	translation похожесть по universal-sentence-encoder-qa/3
+1.78214	Похожесть косинусная Bert bert-large-nli-mean-tokens
+1.70714	Хост Количество показов за пределами топ 10/на все показы
+1.38095	BM25Plus по 3граммам буквенным
+1.34167	Хост AVG click before show doc
+1.29405	BM25plus по слову
+1.2369	Похожесть по universal-sentence-encoder-multilingual-large/3
+1.03095	Похожесть косинусная Bert roberta-large-nli-stsb-mean-tokens
+1.00833	Документ AVGtime
+0.98571	Похожесть по universal-sentence-encoder-multilingual-qa/3,  НЕНОРМИРОВАННЫЕ
+0.90357	translation cos universal-sentence-encoder-large/5
+0.90238	fasttext RusVectores 187/model.model сумма векторов слов косинус
+0.8869	fasttext RusVectores 187/model.model встроенная симилярити
+0.88571	Хост Probclick showposition 2
+0.84762	Запрос AVG DOCS
+0.84524	Документ Количество показов за пределами топ 10/на все показы
+0.82857	BM25Plus по 2 словам
+0.82381	скалярное * TFIDF 1-3 нграммы
+0.80833	Похожесть по universal-sentence-encoder-multilingual/3,  НЕНОРМИРОВАННЫЕ
+0.79881	Похожесть косинусная Bert distiluse-base-multilingual-cased, НЕНОРМИРОВАННЫЕ
+0.78452	bm25doc
+0.77857	Хост CM
+0.76905	Хост Probclick showposition 3
+0.76667	BM25Plus по 5граммам буквенным
+0.75357	Похожесть по universal-sentence-encoder-multilingual-large/3,  НЕНОРМИРОВАННЫЕ
+0.74762	fasttext ft_native_300_ru_wiki_lenta_lemmatize.bin фраза скалярное
+0.74048	косинус TFIDF по текстам словам 1-3
+0.70119	transforms_cos_sum DeepPavlov/rubert-base-cased
+0.68452	fasttext cc.en.300.bin фразовый вектор скалярное
+0.67857	transforms_sum_cos DeepPavlov/rubert-base-cased-sentence
+0.65476	Запрос-Документ log(1+clicks)
+0.65357	fasttext RusVectores 187/model.model сумма векторов слов скалярное
+0.65	fasttext cc.ru.300.bin сумма векторов слов скалярное
+0.64405	Запрос Средняя позиция первого клика
+0.64286	transforms_sum_cos DeepPavlov/rubert-base-cased-conversational
+0.63571	Хост Probclick showposition 5
+0.62976	fasttext cc.ru.300.bin фразовый вектор скалярное
+0.61429	fasttext ft_native_300_ru_wiki_lenta_lemmatize.bin сумма векторов слов скалярное
+0.60714	fasttext RusVectores 181/model.model сумма векторов слов косинус
+0.60476	Документ log(1+clicks)
+0.60357	transforms_sum_cos DeepPavlov/rubert-base-cased
+0.59524	transforms_cos_sum DeepPavlov/rubert-base-cased-conversational
+0.59167	BM25L по 5граммам буквенным
+0.59048	BM25kapi по 3граммам буквенным
+0.58333	Хост Probclick showposition 4
+0.58333	BM25L по слову
+0.58214	Хост CTR position 2
+0.57738	хост sDBN A
+0.575	BM25kapi по слову
+0.575	Хост ProbClick clickposition 10
+0.57381	BM25L по 3граммам буквенным
+0.57262	fasttext cc.en.300.bin сумма векторов слов косинус
+0.5631	Хост AVG Position
+0.55357	Документ AVG Position
+0.54643	Документ sDBN A
+0.54048	Запрос средняя позици клика
+0.53929	fasttext RusVectores 181/model.model сумма векторов слов скадярное
+0.51786	transforms_cos_sum DeepPavlov/rubert-base-cased-sentence
+0.51786	Хост CTR position 1
+0.51548	Хост AVG Position Click
+0.51548	Хост LastProb
+0.50833	Хост Probclick showposition 7
+0.50238	Документ Probclick showposition 3
+0.50238	Хост Probclick showposition 8
+0.50119	fasttext cc.en.300.bin сумма векторов слов  скалярное
+0.49881	скалярное * TF по слову
+0.49762	Хост ProbClick clickposition 7
+0.49405	Хост ProbClick clickposition 6
+0.4869	Хост ProbClick clickposition 9
+0.48095	скалярное * TF по 4-13 буквенным нграммам
+0.47738	Похожесть косинусная Bert distiluse-base-multilingual-cased
+0.47143	Хост ProbClick clickposition 2
+0.46905	Хост CTR
+0.46905	fasttext RusVectores 181/model.model встроенная симилярити
+0.46667	Хост CTR position 3
+0.46548	Хост ProbClick clickposition 4
+0.4631	fasttext cc.ru.300.bin сумма векторов слов косинус
+0.4619	Документ CTR position 4
+0.45714	Хост LastCTR
+0.45	Документ Probclick showposition 1
+0.44405	Хост FirstCTR
+0.44167	Документ ProbClick clickposition 3
+0.43452	Хост CTR position 10
+0.43452	Хост ProbClick clickposition 5
+0.43333	скалярное * TFIDF по 4-13 буквенным нграммам
+0.43333	Хост CTR position 4
+0.42381	Хост CTR@5
+0.42262	Документ Probclick showposition 4
+0.42143	Документ CM
+0.41786	Хост Количество кликов за пределами топ 10/на все клики
+0.41667	Документ AVG click before show doc
+0.41548	Запрос-Хост log(1+clicks)
+0.41429	Запрос AVG Clicks
+0.4119	fasttext cc.en.300.bin фразовый вектор косинус
+0.40833	Документ CTR position 5
+0.40714	fasttext ft_native_300_ru_wiki_lenta_lemmatize.bin сумма векторов слов косинус
+0.4	Документ Probclick showposition 2
+0.39881	Документ DowbProb
+0.39643	Хост Probclick showposition 10
+0.39405	Запрос-Хост AVG Position
+0.39048	Документ ProbClick clickposition 1
+0.3881	Похожесть по universal-sentence-encoder-multilingual/3
+0.3869	Документ CTR position 6
+0.38333	Хост PBM
+0.37857	Хост DowbProb
+0.37619	BM25kapi по 5граммам буквенным
+0.37024	Хост CTR position 7
+0.36548	Документ LastCTR
+0.36548	fasttext ft_native_300_ru_wiki_lenta_lemmatize.bin фраза косинус
+0.3631	fasttext cc.ru.300.bin фразовый вектор косинус
+0.3619	Документ LastProb
+0.36071	Хост Probclick showposition 1
+0.36071	Документ Probclick showposition 5
+0.35357	Хост ProbClick clickposition 3
+0.35238	Документ CTR
+0.35119	Хост CTR position 5
+0.34405	Документ CTR position 8
+0.34048	Запрос-Документ AVG Position
+0.33929	Документ FirstCTR
+0.33929	Хост Probclick showposition 6
+0.3381	Документ ProbClick clickposition 2
+0.3381	скалярное * TFIDF по слову
+0.3369	Хост CTR position 8
+0.33571	Хост ProbClick clickposition 8
+0.33214	косинус * TF по 4-13 буквенным нграммам
+0.32738	Документ Probclick showposition 10
+0.325	Документ Количество не первых кликов/на все клики
+0.31905	Документ ProbClick clickposition 4
+0.31548	Документ CTR position 1
+0.31429	Документ CTR position 3
+0.3119	Хост CTR position 6
+0.30952	Документ PBM
+0.30595	Документ CTR position 7
+0.30119	Документ ProbClick clickposition 7
+0.30119	скалярное * TF 1-3 нграммы
+0.29643	Запрос-Документ AVGtime
+0.29643	Хост Probclick showposition 9
+0.29167	Хост Количество не первых кликов/на все клики
+0.28929	Документ Probclick showposition 7
+0.28452	Документ Probclick showposition 8
+0.28452	хост sDBN R
+0.28333	Хост ProbClick clickposition 1
+0.28214	Хост log(1+clicks)
+0.28095	Запрос-Документ CTR@5
+0.26905	Документ CTR@5
+0.26667	Документ CTR position 10
+0.26548	Документ CTR position 2
+0.26071	Документ Probclick showposition 9
+0.25952	Хост CTR position 9
+0.25714	хост sDBN S
+0.25357	документ sDBN R
+0.25238	Документ ProbClick clickposition 5
+0.24286	Запрос-Хост Probclick showposition 1
+0.24048	Документ Probclick showposition 6
+0.23929	Документ CTR position 9
+0.22976	Запрос-Хост CTR position 1
+0.22619	документ sDBN S
+0.225	Документ ProbClick clickposition 6
+0.22381	Документ ProbClick clickposition 8
+0.22381	Хост AVG showPosition if was Click
+0.22381	Документ ProbClick clickposition 9
+0.21548	скалярное * TFIDF по 2 словам
+0.20952	Запрос-хост sDBN A
+0.20357	Запрос-Хост FirstCTR
+0.20357	Запрос-Документ LastCTR
+0.19643	Документ AVG Position Click
+0.19405	Запрос-Хост AVGtime
+0.19048	Запрос-Документ AVG showPosition if was Click
+0.16786	Запрос-докумет sDBN A
+0.16429	Запрос-Хост LastCTR
+0.1619	Документ AVG showPosition if was Click
+0.14762	Запрос-Хост AVG Position Click
+0.14643	Хост AVG click after show doc
+0.14405	Запрос-хост sDBN R
+0.14286	Запрос-документ sDBN R
+0.14286	Запрос-Документ PBM
+0.1381	Запрос-Хост CTR@5
+0.13333	Запрос-Хост PBM
+0.13095	Запрос-Хост CTR
+0.13095	Запрос-Документ AVG Position Click
+0.12976	скалярное * TF по 2 словам
+0.12738	Запрос-Хост AVG click after show doc
+0.12024	Запрос-Хост Количество не первых кликов/на все клики
+0.11667	Запрос-Документ FirstCTR
+0.10595	Запрос-Хост AVG click before show doc
+0.10238	Запрос-Документ CTR position 1
+0.09048	Документ ProbClick clickposition 10
+0.09048	Запрос-Хост Probclick showposition 2
+0.0869	Запрос-Документ CTR
+0.08571	Запрос-Документ AVG click before show doc
+0.07738	Запрос-Документ DowbProb
+0.07738	Запрос-Хост Probclick showposition 3
+0.07381	Запрос-хост sDBN S
+0.07381	Запрос-Документ CTR position 2
+0.07262	Запрос-Документ CTR position 7
+0.07143	Запрос-Хост DowbProb
+0.07024	Запрос-Документ Количество не первых кликов/на все клики
+0.07024	Запрос AVGTime
+0.06905	Запрос-Документ ProbClick clickposition 1
+0.06905	Запрос-Хост ProbClick clickposition 1
+0.06786	Запрос-Документ Probclick showposition 1
+0.06667	Запрос-Документ Probclick showposition 3
+0.0631	Документ log(1+shows)
+0.0631	Запрос-Хост CTR position 3
+0.06071	Запрос-Хост ProbClick clickposition 2
+0.05952	Документ AVG click after show doc
+0.05952	Запрос-Документ CTR position 3
+0.05833	Запрос-документ sDBN S
+0.05714	косинус * TF 1-3 нграммы
+0.05476	Запрос-Документ LastProb
+0.05476	Запрос-Хост CTR position 9
+0.05119	Запрос-Документ CTR position 6
+0.05119	Запрос-Документ CM
+0.05	косинус * TFIDF по 4-13 буквенным нграммам
+0.04881	Запрос-Хост LastProb
+0.04881	Запрос-Хост Probclick showposition 4
+0.04881	Запрос-Хост AVG showPosition if was Click
+0.04762	Запрос-Документ CTR position 4
+0.04643	Запрос-Хост CTR position 2
+0.04643	Запрос-Хост CTR position 5
+0.04643	Запрос-Хост CTR position 6
+0.04524	Запрос-Хост CTR position 7
+0.04167	Запрос-Документ AVG click after show doc
+0.04167	Запрос-Документ Probclick showposition 2
+0.0369	Запрос-Хост Количество показов за пределами топ 10/на все показы
+0.0369	Запрос-Документ Probclick showposition 6
+0.03452	Запрос-Хост CM
+0.03333	Запрос-Хост Probclick showposition 5
+0.03333	Запрос-Документ Probclick showposition 5
+0.02976	Запрос-Документ ProbClick clickposition 2
+0.02738	Запрос-Хост ProbClick clickposition 3
+0.02381	Запрос-Хост CTR position 4
+0.02381	Запрос-Документ Probclick showposition 4
+0.02381	Запрос-Документ CTR position 5
+0.02262	Запрос-Документ ProbClick clickposition 4
+0.02262	Запрос-Хост Probclick showposition 6
+0.02024	Запрос-Хост Probclick showposition 9
+0.01786	Запрос-Документ ProbClick clickposition 3
+0.01786	Запрос-Хост CTR position 8
+0.01786	Запрос-Документ Количество показов за пределами топ 10/на все показы
+0.01667	Запрос-Документ CTR position 8
+0.01429	Запрос-Хост ProbClick clickposition 4
+0.0119	Запрос-Хост Probclick showposition 7
+0.0119	Запрос-Документ CTR position 10
+0.01071	Запрос-Документ Probclick showposition 10
+0.01071	Запрос-Документ Probclick showposition 8
+0.01071	Запрос-Хост Probclick showposition 10
+0.00833	Запрос-Хост CTR position 10
+0.00833	Запрос-Документ ProbClick clickposition 6
+0.00833	Запрос-Документ CTR position 9
+0.00714	Запрос-Хост ProbClick clickposition 5
+0.00595	Запрос-Хост Probclick showposition 8
+0.00595	Запрос-Документ Probclick showposition 7
+0.00595	косинус * TFIDF по 2 словам
+0.00238	Запрос-Документ Probclick showposition 9
+0.00238	Запрос-Хост ProbClick clickposition 6
+0.00119	Хост log(1+shows)
+0.00119	косинус * TF по слову
+0.00119	Запрос-Документ ProbClick clickposition 5
+0.00119	Документ Количество кликов за пределами топ 10/на все клики
+0.0	Запрос-Хост log(1+shows)
+0.0	Запрос-Документ log(1+shows)
+0.0	косинус * TFIDF по слову
+0.0	косинус * TFIDF 1-3 нграммы
+0.0	Запрос-Хост UpProb
+0.0	Запрос Сколько раз без клика
+0.0	bm25doc
+0.0	косинус * TF по 2 словам
+0.0	Запрос-Хост ProbClick clickposition 8
+0.0	Запрос-Хост ProbClick clickposition 7
+0.0	Запрос-Документ Количество кликов за пределами топ 10/на все клики
+0.0	BM25L по 2 словам
+0.0	Запрос-Хост Количество кликов за пределами топ 10/на все клики
+0.0	Запрос-Документ UpProb
+0.0	Запрос-Хост ProbClick clickposition 9
+0.0	BM25kapi по 2 словам
+0.0	Документ UpProb
+0.0	Запрос-Документ ProbClick clickposition 10
+0.0	Запрос-Документ ProbClick clickposition 9
+0.0	Запрос-Документ ProbClick clickposition 8
+0.0	Запрос-Документ ProbClick clickposition 7
+0.0	Хост UpProb
+0.0	Запрос-Хост ProbClick clickposition 10
